@@ -1,0 +1,15 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Portfolie website for jatinchauhan.in",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jatinchauhann.github.io/responsive-portfolio",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
