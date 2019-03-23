@@ -6,7 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d build"
   },
-  "author": "",
+  "author": "Jatin Chauhan",
   "license": "ISC",
   "homepage": "https://jatinchauhann.github.io/responsive-portfolio",
   "dependencies": {
